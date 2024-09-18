@@ -7,4 +7,6 @@ Resumo das aluas e práticas no lab da DIO.
 - Commitar as alterações
 - Utilizar linha de comando
 - Alterar direto na plataforma GitHub
+- Vantagens e características de uma nuvem publica
+- Painel Azure
   
