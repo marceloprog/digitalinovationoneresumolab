@@ -8,5 +8,6 @@ Resumo das aluas e práticas no lab da DIO.
 - Utilizar linha de comando
 - Alterar direto na plataforma GitHub
 - Vantagens e características de uma nuvem publica
-- Painel Azure
+- Painel Azure, criação de máquina virtual
+- Painel Azure, criação de banco de dados SQL
   
