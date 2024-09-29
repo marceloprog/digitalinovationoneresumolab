@@ -10,4 +10,4 @@ Resumo das aluas e práticas no lab da DIO.
 - Vantagens e características de uma nuvem publica
 - Painel Azure, criação de máquina virtual
 - Painel Azure, criação de banco de dados SQL
-  
+- Aprendizado sobre Azure IA
