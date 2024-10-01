@@ -12,3 +12,4 @@ Resumo das aluas e práticas no lab da DIO.
 - Painel Azure, criação de banco de dados SQL
 - Aprendizado sobre Azure IA
 - Laboratório de Maquina Virtual, Desktop Virtual, e Aplicativos
+- Laboratório de criação de Conta de Armazenamento e utilização do comando AzCopy
