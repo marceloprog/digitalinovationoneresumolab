@@ -13,3 +13,4 @@ Resumo das aluas e práticas no lab da DIO.
 - Aprendizado sobre Azure IA
 - Laboratório de Maquina Virtual, Desktop Virtual, e Aplicativos
 - Laboratório de criação de Conta de Armazenamento e utilização do comando AzCopy
+- Laboratório de Entra Id, Microsoft Defender
