@@ -14,3 +14,4 @@ Resumo das aluas e práticas no lab da DIO.
 - Laboratório de Maquina Virtual, Desktop Virtual, e Aplicativos
 - Laboratório de criação de Conta de Armazenamento e utilização do comando AzCopy
 - Laboratório de Entra Id, Microsoft Defender
+- Gerenciamento de custos, Calculadora TCO, Tags,, gerenciamento de custos no Azure
