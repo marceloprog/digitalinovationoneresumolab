@@ -16,3 +16,4 @@ Resumo das aluas e práticas no lab da DIO.
 - Laboratório de Entra Id, Microsoft Defender
 - Gerenciamento de custos, Calculadora TCO, Tags,, gerenciamento de custos no Azure
 - Portal de confiança Microsoft, Azure policy.
+- Acessando Powershel e recursos do ARC
