@@ -17,3 +17,4 @@ Resumo das aluas e práticas no lab da DIO.
 - Gerenciamento de custos, Calculadora TCO, Tags,, gerenciamento de custos no Azure
 - Portal de confiança Microsoft, Azure policy.
 - Acessando Powershel e recursos do ARC
+- Monitoramento, serviço de saude e advisor no azure
